@@ -39,6 +39,7 @@ Ce projet est une application simple de gestion de contacts développée avec le
 1. **Lancement du Serveur de Développement :**
    ```bash
    php artisan serve
+   npm run dev
    ```
 
 2. Accédez à l'application dans votre navigateur à l'adresse [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
