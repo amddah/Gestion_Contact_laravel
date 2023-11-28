@@ -64,5 +64,3 @@ Un fichier `.sql` contenant une base de données pré-remplie est disponible dan
 ## Licence
 
 Ce projet est sous licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus d'informations.
-```
-
