@@ -57,7 +57,6 @@ Ce projet est une application simple de gestion de contacts développée avec le
 ![Capture d'écran 2](./screenshot4.jpg)
 
 ## Note additionnelle
-## Note additionnelle
 
 Un fichier `.sql` contenant une base de données pré-remplie est disponible dans le dossier `./recrutement.sql`.
 
