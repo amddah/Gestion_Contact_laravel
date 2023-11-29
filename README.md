@@ -53,8 +53,8 @@ Ce projet est une application simple de gestion de contacts développée avec le
 
 ## Capture d'écran
 
-![Capture d'écran 1](screenshots/screenshot3.jpg)
-![Capture d'écran 2](screenshots/screenshot4.jpg)
+![Capture d'écran 1](./screenshot3.jpg)
+![Capture d'écran 2](./screenshot4.jpg)
 
 ## Note additionnelle
 ## Note additionnelle
